@@ -1,0 +1,6 @@
+name: SimplePlayerStatistic
+version: '${project.version}'
+main: net.simple.player.statistic.SimplePlayerStatisticPlugin
+api-version: 1.19
+authors: [ No_KessPen ]
+description: Собирает статистику о игроках я отправляет в БД
